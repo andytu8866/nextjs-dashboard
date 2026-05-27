@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../app/dashboard/invoices/page.tsx"],"sourcesContent":["export default function page() {\r\n    return <p>Invoices Page</p>\r\n}"],"names":[],"mappings":"iXAAe,SAAS,IACpB,MAAO,CAAA,EAAA,EAAA,GAAA,EAAC,IAAA,UAAE,iBACd"}

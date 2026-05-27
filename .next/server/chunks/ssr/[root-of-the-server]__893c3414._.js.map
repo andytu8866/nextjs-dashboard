@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../app/dashboard/customers/page.tsx"],"sourcesContent":["export default function page() {\r\n    return <p>Customers Page</p>\r\n}"],"names":[],"mappings":"+WAAe,SAAS,IACpB,MAAO,CAAA,EAAA,EAAA,GAAA,EAAC,IAAA,UAAE,kBACd"}
